@@ -1,0 +1,21 @@
+Python cache
+
+pycache/
+*.py[cod]
+
+PyInstaller build folders
+
+build/
+dist/
+*.spec
+
+Application Data (User specific)
+
+session.json
+highscores.json
+
+Virtual Environment
+
+venv/
+env/
+.env

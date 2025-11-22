@@ -1,0 +1,512 @@
+[
+  {
+    "question": "The joint venture Racal-Millicom Ltd.",
+    "options": ["which led to Vodafone", "was formed in:", "1975", "1980"],
+    "answer": 1982,
+    "subject": "1985"
+  },
+  {
+    "question": "Communication is mainly about:",
+    "options": [
+      "Moving physically from one place to another",
+      "Transmitting information from one entity to another",
+      "Storing data in a database",
+      "Only sending written letters"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Which of the following can be considered \"information\" in communication?",
+    "options": ["Emotions", "Ideas", "Thoughts", "All of the above"],
+    "answer": 4,
+    "subject": "General"
+  },
+  {
+    "question": "The electric telegraph was invented by Samuel Morse in around:",
+    "options": ["1800", "1837", "1900", "1963"],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "The first public message on telegraph lines was sent in:",
+    "options": ["1837", "1844", "1876", "1963"],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Alexander Graham Bell’s famous line during the first telephone call was:",
+    "options": [
+      "Hello, world!",
+      "Can you hear me?",
+      "Mr. Watson, come here, I want you.",
+      "This is the first call."
+    ],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "The telephone was patented in:",
+    "options": ["1844", "1876", "1900", "1947"],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "The first telecom satellite SYNCOM-1 was launched in:",
+    "options": ["1947", "1955", "1963", "1970"],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "John Bardeen is associated with the invention of:",
+    "options": ["Telephone", "Telegraph", "Transistor", "Television"],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "The name \"Vodafone\" is derived from:",
+    "options": [
+      "Voice Data Phone",
+      "Virtual Data Fone",
+      "Voice Data Fone",
+      "Voice Digital Phone"
+    ],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "The joint venture Racal-Millicom Ltd.",
+    "options": ["which led to Vodafone", "was formed in:", "1975", "1980"],
+    "answer": 1982,
+    "subject": "1985"
+  },
+  {
+    "question": "The Racal-Vodafone network launched commercially in the UK in:",
+    "options": ["1982", "1985", "1988", "1991"],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Racal Telecom went public and grew bigger than Racal Electronics in:",
+    "options": ["1982", "1985", "1988", "1991"],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "Racal Telecom was de-merged and renamed Vodafone Group Plc in:",
+    "options": ["1985", "1988", "1991", "1995"],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "Which of the following is an example of a Vodafone partner?",
+    "options": ["Telekom Srbija", "NASA", "Indian Railways", "Google"],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "Communication networks consist mainly of:",
+    "options": [
+      "Network elements and signaling",
+      "Only base stations",
+      "Only satellites",
+      "Only cables"
+    ],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "Which of the following are examples of signaling technologies mentioned?",
+    "options": ["CC7/SS7", "SIGTRAN", "TCP/IP", "All of the above"],
+    "answer": 4,
+    "subject": "General"
+  },
+  {
+    "question": "PSTN stands for:",
+    "options": [
+      "Public Switched Telephone Network",
+      "Private Switching Telecom Network",
+      "Public Service Telecom Network",
+      "Packet Switched Telephone Network"
+    ],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "Another common name for PSTN telephones is:",
+    "options": [
+      "VoIP phones",
+      "POTS (Plain Old Telephone Service) or fixed-line",
+      "GSM mobile phones",
+      "Satellite phones"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Which of the following is a service provided by SS7?",
+    "options": [
+      "Call setup and teardown",
+      "SMS",
+      "Mobile roaming and tracking",
+      "All of the above"
+    ],
+    "answer": 4,
+    "subject": "General"
+  },
+  {
+    "question": "The Access Network is used to:",
+    "options": [
+      "Do billing and invoicing",
+      "Provide network access to end users via wired/wireless media",
+      "Store HR records",
+      "Do marketing"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "2G GSM/GPRS/EDGE access network elements typically include:",
+    "options": ["BSC and BTS", "Node-B and RNC", "eNodeB", "MSC and GMSC"],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "3G WCDMA/HSPA access network elements typically include:",
+    "options": ["BSC and BTS", "Node-B and RNC", "eNodeB only", "Only MSC"],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "4G LTE/VoLTE access network element is mainly:",
+    "options": ["BTS", "BSC", "eNodeB", "RNC"],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "Which of these is a core network element?",
+    "options": ["BTS", "Node-B", "MSC", "eNodeB"],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "MSISDN refers to:",
+    "options": [
+      "SIM serial number",
+      "Mobile phone number used for dialing",
+      "Equipment identity of the phone",
+      "Country code only"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "IMSI refers to:",
+    "options": [
+      "International Mobile Subscriber Identity",
+      "International Mobile Switch Identity",
+      "Internal Mobile Service Identity",
+      "Integrated Mobile Subscriber Number"
+    ],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "IMEI refers to:",
+    "options": [
+      "International Mobile Exchange Identity",
+      "International Mobile Equipment Identity",
+      "Internal Mobile Equipment Indicator",
+      "International Mobile Emergency Identity"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "IMSI is mainly used by:",
+    "options": [
+      "Customers to dial",
+      "The operator to uniquely identify a subscriber",
+      "Government only",
+      "SIM manufacturer only"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "MCC stands for:",
+    "options": [
+      "Mobile Country Code",
+      "Main Control Center",
+      "Mobile Call Counter",
+      "Master Charging Code"
+    ],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "MNC stands for:",
+    "options": [
+      "Main Network Center",
+      "Mobile Network Code",
+      "Master Node Code",
+      "Multi Network Connector"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "CDR stands for:",
+    "options": [
+      "Call Data Router",
+      "Call Detail Record",
+      "Customer Detail Report",
+      "Charging Detail Route"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "The billing phone number charged for the call is included in:",
+    "options": ["IMSI", "EDR", "CDR", "MSISDN structure only"],
+    "answer": 3,
+    "subject": "General"
+  },
+  {
+    "question": "EDR stands for:",
+    "options": [
+      "Event Data Record",
+      "Event Detail Record",
+      "Enhanced Data Record",
+      "Enterprise Data Report"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "OSS stands for:",
+    "options": [
+      "Operational Support System",
+      "Organizational Support Server",
+      "Optical Switching System",
+      "Operator Sales System"
+    ],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "BSS stands for:",
+    "options": [
+      "Basic Switching System",
+      "Business Support System",
+      "Billing Support Server",
+      "Broadband Service System"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Which of the following is part of the overall BSS landscape?",
+    "options": ["CRM", "Mediation", "Postpaid Billing", "All of the above"],
+    "answer": 4,
+    "subject": "General"
+  },
+  {
+    "question": "POS stands for:",
+    "options": [
+      "Point of Service",
+      "Point of Sale",
+      "Packet over Satellite",
+      "Product Order System"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "CAF stands for:",
+    "options": [
+      "Customer Access File",
+      "Customer Acquisition Form",
+      "Customer Activation File",
+      "Central Access Form"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "DMS stands for:",
+    "options": [
+      "Dealer Management Service",
+      "Document Management System",
+      "Data Migration Server",
+      "Device Management Service"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "MSISDN & SIM association includes managing:",
+    "options": [
+      "Mobile number and SIM mapping",
+      "Free MSISDN pool and cleanup",
+      "SIM distribution and stock management",
+      "All of the above"
+    ],
+    "answer": 4,
+    "subject": "General"
+  },
+  {
+    "question": "Order Management is mainly responsible for:",
+    "options": [
+      "Payroll",
+      "Order capture and fulfillment",
+      "Radio planning",
+      "Tower installation"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Order Decomposition means:",
+    "options": [
+      "Deleting customer orders",
+      "Breaking one customer order into multiple sub-orders per service",
+      "Merging many orders into one",
+      "Splitting bills into taxes"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Order Orchestration refers to:",
+    "options": [
+      "Playing music on IVR",
+      "Coordinating events across multiple fulfillment systems",
+      "Only CRM operations",
+      "Only HR workflows"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Order Fallout occurs when:",
+    "options": [
+      "The customer cancels TV subscription",
+      "An order fails because of missing/incorrect data or target system issues",
+      "The bill is not generated",
+      "The SIM is destroyed"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "CRM stands for:",
+    "options": [
+      "Customer Rating Management",
+      "Customer Relationship Management",
+      "Core Routing Management",
+      "Call Routing Mechanism"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "CRM helps in:",
+    "options": [
+      "Cross-sell and up-sell",
+      "Faster response to enquiries and complaints",
+      "Campaign management",
+      "All of the above"
+    ],
+    "answer": 4,
+    "subject": "General"
+  },
+  {
+    "question": "IN Platform (prepaid) mainly stores:",
+    "options": [
+      "Voice recordings",
+      "Account balances for prepaid subscribers",
+      "Employee salaries",
+      "Tower locations"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "OSS in provisioning context acts as:",
+    "options": [
+      "Network interface for order fulfillment in network elements",
+      "HR module",
+      "Tax calculation engine",
+      "Device manufacturer"
+    ],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "Network Engineering in OSS deals with:",
+    "options": [
+      "Configuring complex devices located in various physical places",
+      "Payroll processing",
+      "Only social media",
+      "Only CRM functionality"
+    ],
+    "answer": 1,
+    "subject": "General"
+  },
+  {
+    "question": "OSS Data & Analytics usually use:",
+    "options": [
+      "Spreadsheets only",
+      "An Inventory database with network models",
+      "SMS systems only",
+      "HR database"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Customer Experience Management (CEM/CEX) emerged from:",
+    "options": [
+      "Social media platforms",
+      "Service Assurance and Performance Management",
+      "HR systems",
+      "Sales tools"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Basic telecom services include:",
+    "options": [
+      "Voice",
+      "SMS and MMS",
+      "Data and Broadband",
+      "All of the above"
+    ],
+    "answer": 4,
+    "subject": "General"
+  },
+  {
+    "question": "Pre-pay billing typically involves:",
+    "options": [
+      "No charging",
+      "Real-time advice of charge and usually no invoice generation",
+      "Annual invoices only",
+      "Only corporate customers"
+    ],
+    "answer": 2,
+    "subject": "General"
+  },
+  {
+    "question": "Postpaid billing is:",
+    "options": [
+      "End-of-cycle billing based on usage and rentals",
+      "Only prepaid top-up",
+      "Only interconnect",
+      "Only TAP-based roaming"
+    ],
+    "answer": 1,
+    "subject": "General"
+  }
+]

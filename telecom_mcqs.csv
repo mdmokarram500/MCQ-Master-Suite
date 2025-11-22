@@ -1,0 +1,176 @@
+question,option1,option2,option3,option4,answer_index
+Communication is mainly about:,Moving physically from one place to another,Transmitting information from one entity to another,Storing data in a database,Only sending written letters,B
+Which of the following can be considered “information” in communication?,Emotions,Ideas,Thoughts,All of the above,D
+A social animal (like a human) communicates using:,Only spoken words,Only written documents,Spoken words, signs/symbols and non-verbal gestures,Only electronic devices,C
+The electric telegraph was invented by Samuel Morse in around:,1800,1837,1900,1963,B
+The first public message on telegraph lines was sent in:,1837,1844,1876,1963,B
+Alexander Graham Bell’s famous line during the first telephone call was:,Hello, world!,Can you hear me?,Mr. Watson, come here, I want you.,This is the first call.,C
+The telephone was patented in:,1844,1876,1900,1947,B
+The first telecom satellite SYNCOM-1 was launched in:,1947,1955,1963,1970,C
+John Bardeen is associated with the invention of:,Telephone,Telegraph,Transistor,Television,C
+The name “Vodafone” is derived from:,Voice Data Phone,Virtual Data Fone,Voice Data Fone,Voice Digital Phone,C
+The joint venture Racal-Millicom Ltd., which led to Vodafone, was formed in:,1975,1980,1982,1985,C
+The Racal-Vodafone network launched commercially in the UK in:,1982,1985,1988,1991,B
+Racal Telecom went public and grew bigger than Racal Electronics in:,1982,1985,1988,1991,C
+Racal Telecom was de-merged and renamed Vodafone Group Plc in:,1985,1988,1991,1995,C
+Vodafone Partner Markets typically offer:,Employee payroll services,Roaming, connectivity and shared expertise,Social media services,SIM manufacturing only,B
+Which of the following is an example of a Vodafone partner?,Telekom Srbija,NASA,Indian Railways,Google,A
+Communication networks consist mainly of:,Network elements and signaling,Only base stations,Only satellites,Only cables,A
+Which of the following are examples of signaling technologies mentioned?,CC7/SS7,SIGTRAN,TCP/IP,All of the above,D
+Under the “Telecom Umbrella”, which network types are included?,GSM,PSTN,Broadband, Cable, Satellite,All of the above,D
+PSTN stands for:,Public Switched Telephone Network,Private Switching Telecom Network,Public Service Telecom Network,Packet Switched Telephone Network,A
+Another common name for PSTN telephones is:,VoIP phones,POTS (Plain Old Telephone Service) or fixed-line,GSM mobile phones,Satellite phones,B
+Which of the following is a service provided by SS7?,Call setup and teardown,SMS,Mobile roaming and tracking,All of the above,D
+The Access Network is used to:,Do billing and invoicing,Provide network access to end users via wired/wireless media,Store HR records,Do marketing,B
+2G GSM/GPRS/EDGE access network elements typically include:,BSC and BTS,Node-B and RNC,eNodeB,MSC and GMSC,A
+3G WCDMA/HSPA access network elements typically include:,BSC and BTS,Node-B and RNC,eNodeB only,Only MSC,B
+4G LTE/VoLTE access network element is mainly:,BTS,BSC,eNodeB,RNC,C
+The Core Network is responsible for:,Only radio transmission,Switching, routing, authentication, and services like SMS and prepaid,Only HR and payroll,Only tower construction,B
+Which of these is a core network element?,BTS,Node-B,MSC,eNodeB,C
+The Transport Network is used to:,Interconnect network elements and different networks (E1/T1, microwave, optical, IP),Store customer data,Print bills,Manage HR,A
+MSISDN refers to:,SIM serial number,Mobile phone number used for dialing,Equipment identity of the phone,Country code only,B
+IMSI refers to:,International Mobile Subscriber Identity,International Mobile Switch Identity,Internal Mobile Service Identity,Integrated Mobile Subscriber Number,A
+IMEI refers to:,International Mobile Exchange Identity,International Mobile Equipment Identity,Internal Mobile Equipment Indicator,International Mobile Emergency Identity,B
+IMSI is mainly used by:,Customers to dial,The operator to uniquely identify a subscriber,Government only,SIM manufacturer only,B
+MCC stands for:,Mobile Country Code,Main Control Center,Mobile Call Counter,Master Charging Code,A
+MNC stands for:,Main Network Center,Mobile Network Code,Master Node Code,Multi Network Connector,B
+TAC, FAC and SNR are primarily parts of:,MSISDN structure,IMEI structure,IMSI structure,IP address,B
+CDR stands for:,Call Data Router,Call Detail Record,Customer Detail Report,Charging Detail Route,B
+A CDR typically contains:,Calling and called numbers,Call start time and duration,Call type (voice, SMS, etc.),All of the above,D
+The billing phone number charged for the call is included in:,IMSI,EDR,CDR,MSISDN structure only,C
+EDR stands for:,Event Data Record,Event Detail Record,Enhanced Data Record,Enterprise Data Report,B
+EDRs are typically used for:,Only voice calls,Value Added Services like caller tunes, cricket alerts etc.,Employee attendance,Salary processing,B
+OSS stands for:,Operational Support System,Organizational Support Server,Optical Switching System,Operator Sales System,A
+BSS stands for:,Basic Switching System,Business Support System,Billing Support Server,Broadband Service System,B
+OSS is mainly about:,Managing network inventory, provisioning, configuration, and faults,Managing bank accounts,Handling only invoices,Managing HR data,A
+BSS is mainly about:,Radio network planning,Dealing with customers – orders, bills, payments,Node configuration,Frequency planning,B
+Which of the following is part of the overall BSS landscape?,CRM,Mediation,Postpaid Billing,All of the above,D
+In the TELCO stack, “IN Platform” is associated mostly with:,Postpaid,Prepaid,Interconnect only,HR systems,B
+POS stands for:,Point of Service,Point of Sale,Packet over Satellite,Product Order System,B
+CAF stands for:,Customer Access File,Customer Acquisition Form,Customer Activation File,Central Access Form,B
+DMS stands for:,Dealer Management Service,Document Management System,Data Migration Server,Device Management Service,B
+CAF, POA, POI documents are:,Network configuration files,Scanned customer documents uploaded into DMS,Employee medical records,CDR templates,B
+MSISDN & SIM association includes managing:,Mobile number and SIM mapping,Free MSISDN pool and cleanup,SIM distribution and stock management,All of the above,D
+Order Management is mainly responsible for:,Payroll,Order capture and fulfillment,Radio planning,Tower installation,B
+Order Decomposition means:,Deleting customer orders,Breaking one customer order into multiple sub-orders per service,Merging many orders into one,Splitting bills into taxes,B
+A Triple Play order (landline, internet, wireless) is:,Always a single order in one system,An example where order decomposition creates three sub-orders,A prepaid-only order,A wholesale-only order,B
+Order Orchestration refers to:,Playing music on IVR,Coordinating events across multiple fulfillment systems,Only CRM operations,Only HR workflows,B
+Order Fallout occurs when:,The customer cancels TV subscription,An order fails because of missing/incorrect data or target system issues,The bill is not generated,The SIM is destroyed,B
+CRM stands for:,Customer Rating Management,Customer Relationship Management,Core Routing Management,Call Routing Mechanism,B
+CRM is the main system for:,Network inventory,Customer service – queries, complaints, 360° customer view,SIM printing,Base station configuration,B
+A “360 degree view” in CRM means:,View of only billing details,Complete view of customer – details, services, billing, interactions,Only network usage view,Only location data,B
+CRM helps in:,Cross-sell and up-sell,Faster response to enquiries and complaints,Campaign management,All of the above,D
+Provisioning is about:,Manufacturing SIM cards,Activating/deactivating services in network elements like HLR, switches, IN,Doing tax calculations,Marketing new offers,B
+In postpaid, provisioning may happen:,Only in CRM,In network elements and separately in billing system,Only in DMS,Only in POS,B
+IN Platform (prepaid) mainly stores:,Voice recordings,Account balances for prepaid subscribers,Employee salaries,Tower locations,B
+OSS in provisioning context acts as:,Network interface for order fulfillment in network elements,HR module,Tax calculation engine,Device manufacturer,A
+Network Engineering in OSS deals with:,Configuring complex devices located in various physical places,Payroll processing,Only social media,Only CRM functionality,A
+OSS Data & Analytics usually use:,Spreadsheets only,An Inventory database with network models,SMS systems only,HR database,B
+OSS Planning focuses on:,Only complaints,Capacity, cost, revenue, and reliability of the network,Only taxation,Only CRM screens,B
+Service Fulfilment’s goal is to:,Reduce HR costs,Deliver active, billable services on time while following business rules,Design handsets,Sell towers,B
+Customer Experience Management (CEM/CEX) emerged from:,Social media platforms,Service Assurance and Performance Management,HR systems,Sales tools,B
+Telecom Billing is the process of:,Laying fiber cables,Collecting usage, applying charges, generating invoices, recording payments, managing disputes,Recruiting employees,Designing devices,B
+Basic telecom services include:,Voice,SMS and MMS,Data and Broadband,All of the above,D
+Pre-pay billing typically involves:,No charging,Real-time advice of charge and usually no invoice generation,Annual invoices only,Only corporate customers,B
+Postpaid billing is:,End-of-cycle billing based on usage and rentals,Only prepaid top-up,Only interconnect,Only TAP-based roaming,A
+Convergent billing means:,Separate bill for voice, data, SMS,Billing multiple services on a single platform or invoice, Billing only interconnect,Wholesale-only billing,B
+Interconnect / wholesale billing is for:,Settlements between operators and carriers,Retail customers,Only prepaid users,CRM only,A
+POI in interconnect context means:,Point of Invoicing,Point of Interconnect,Piece of Information,Port of Internet,B
+In prepaid, the real-time billing system first:,Prints a bill,Authenticates user and checks balance and maximum allowable call duration,Updates HR data,Sends SMS to all customers,B
+During the call, the prepaid gateway:,Ignores the call duration,Monitors the call so user does not exceed allowed duration,Changes the tariff plan,Disconnects randomly,B
+Advice of charge in prepaid means:,Legal advice,Info about the cost of the call before or after the event,Only tax advice,HR advice,B
+Which is NOT a typical block of a billing system?,Rating Engine,Billing Engine,Payment module,Hotel Reservation module,D
+Mediation primarily:,Converts call data into billing-specific layouts/formats,Manages HR,Designs antenna,Does printing only,A
+Rating is the process of:,Converting call-related data into monetary equivalent value,Assigning stars to employees,Measuring signal strength only,A customer satisfaction survey,A
+Bill Day refers to:,Last day of year only,The day of the month on which a market billing cycle falls,A public holiday,Salary day,B
+Billing process includes:,Rental and usage calculation,Taxes, discounts, adjustments, late fees,Bill quality checks and delivery,All of the above,D
+In telecom, a product can be:,Mobile connection,VPN, VOD, Internet connection,Voice call service,All of the above,D
+Product attributes like IMSI and MSISDN are used for:,Payroll,Identifying information for rating/billing,Printing posters,Network inventory,B
+Initiation charges are:,Monthly recurring rental,One-time charges for installation/activation,Only penalty charges,Only refund amounts,B
+Product periodic charges are:,One-time only,Monthly/bi-monthly/yearly rental charges,Only termination charges,Only usage-based,B
+Product termination charges apply:,When product/service is terminated,At connection time,Every month,Only at SIM replacement,A
+Charges can be pro-rated meaning:,Same charge regardless of active days,Charges adjusted according to actual days of service in the period,No charge,Double charge,B
+On-Net usage refers to:,Calls to other operators,Calls within same operator’s network,International calls only,Calls to PSTN only,B
+Step rating means:,All units at same rate,Different rates for different slabs of usage,No charges,Only tax is charged,B
+Tier rating means:,Single flat rate,Rate based on which tier the total volume falls into,Always zero rate,Always maximum rate,B
+Validation in mediation means:,Checking the contents of network events for quality and completeness,Approving employee leaves,Checking tax rates,Verifying signatures,A
+Filtering in mediation is used to:,Remove records not relevant or non-billable,Filter employees,Filter SMS spam,Filter emails,A
+Duplicate checks in mediation ensure:,Same employee not paid twice,Same event is not processed more than once,Same document not scanned twice,Same plan not created twice,B
+Enrichment in mediation means:,Increasing salaries,Adding additional information to events to make them more valuable for downstream systems,Encrypting data,Compressing files,B
+Common payment collection methods mentioned are:,Cash,Cheque,Online / auto debit,All of the above,D
+A dispute in billing is:,A customer query or disagreement about an amount on bill/account/event, which may lead to an adjustment, A network failure,An HR complaint,A marketing issue,A
+Communication is mainly about:,Moving physically from one place to another,Transmitting information from one entity to another,Storing data in a database,Only sending written letters,2
+Which of the following can be considered "information" in communication?,Emotions,Ideas,Thoughts,All of the above,4
+A social animal (like a human) communicates using:,Only spoken words,Only written documents,Spoken words, signs/symbols and non-verbal gestures,Only electronic devices,3
+The electric telegraph was invented by Samuel Morse in around:,1800,1837,1900,1963,2
+The first public message on telegraph lines was sent in:,1837,1844,1876,1963,2
+Alexander Graham Bell’s famous line during the first telephone call was:,"Hello, world!","Can you hear me?","Mr. Watson, come here, I want you.","This is the first call.",3
+The telephone was patented in:,1844,1876,1900,1947,2
+The first telecom satellite SYNCOM-1 was launched in:,1947,1955,1963,1970,3
+John Bardeen is associated with the invention of:,Telephone,Telegraph,Transistor,Television,3
+The name "Vodafone" is derived from:,Voice Data Phone,Virtual Data Fone,Voice Data Fone,Voice Digital Phone,3
+The joint venture Racal-Millicom Ltd., which led to Vodafone, was formed in:,1975,1980,1982,1985,3
+The Racal-Vodafone network launched commercially in the UK in:,1982,1985,1988,1991,2
+Racal Telecom went public and grew bigger than Racal Electronics in:,1982,1985,1988,1991,3
+Racal Telecom was de-merged and renamed Vodafone Group Plc in:,1985,1988,1991,1995,3
+Vodafone Partner Markets typically offer:,Employee payroll services,Roaming, connectivity and shared expertise,Social media services,SIM manufacturing only,2
+Which of the following is an example of a Vodafone partner?,Telekom Srbija,NASA,Indian Railways,Google,1
+Communication networks consist mainly of:,Network elements and signaling,Only base stations,Only satellites,Only cables,1
+Which of the following are examples of signaling technologies mentioned?,CC7/SS7,SIGTRAN,TCP/IP,All of the above,4
+Under the “Telecom Umbrella”, which network types are included?,GSM,PSTN,Broadband, Cable, Satellite,All of the above,4
+PSTN stands for:,Public Switched Telephone Network,Private Switching Telecom Network,Public Service Telecom Network,Packet Switched Telephone Network,1
+Another common name for PSTN telephones is:,VoIP phones,POTS (Plain Old Telephone Service) or fixed-line,GSM mobile phones,Satellite phones,2
+Which of the following is a service provided by SS7?,Call setup and teardown,SMS,Mobile roaming and tracking,All of the above,4
+The Access Network is used to:,Do billing and invoicing,Provide network access to end users via wired/wireless media,Store HR records,Do marketing,2
+2G GSM/GPRS/EDGE access network elements typically include:,BSC and BTS,Node-B and RNC,eNodeB,MSC and GMSC,1
+3G WCDMA/HSPA access network elements typically include:,BSC and BTS,Node-B and RNC,eNodeB only,Only MSC,2
+4G LTE/VoLTE access network element is mainly:,BTS,BSC,eNodeB,RNC,3
+The Core Network is responsible for:,Only radio transmission,Switching, routing, authentication, and services like SMS and prepaid,Only HR and payroll,Only tower construction,2
+Which of these is a core network element?,BTS,Node-B,MSC,eNodeB,3
+The Transport Network is used to:,Interconnect network elements and different networks (E1/T1, microwave, optical, IP),Store customer data,Print bills,Manage HR,1
+MSISDN refers to:,SIM serial number,Mobile phone number used for dialing,Equipment identity of the phone,Country code only,2
+IMSI refers to:,International Mobile Subscriber Identity,International Mobile Switch Identity,Internal Mobile Service Identity,Integrated Mobile Subscriber Number,1
+IMEI refers to:,International Mobile Exchange Identity,International Mobile Equipment Identity,Internal Mobile Equipment Indicator,International Mobile Emergency Identity,2
+IMSI is mainly used by:,Customers to dial,The operator to uniquely identify a subscriber,Government only,SIM manufacturer only,2
+MCC stands for:,Mobile Country Code,Main Control Center,Mobile Call Counter,Master Charging Code,1
+MNC stands for:,Main Network Center,Mobile Network Code,Master Node Code,Multi Network Connector,2
+TAC, FAC and SNR are primarily parts of:,MSISDN structure,IMEI structure,IMSI structure,IP address,2
+CDR stands for:,Call Data Router,Call Detail Record,Customer Detail Report,Charging Detail Route,2
+A CDR typically contains:,Calling and called numbers,Call start time and duration,Call type (voice, SMS, etc.),All of the above,4
+The billing phone number charged for the call is included in:,IMSI,EDR,CDR,MSISDN structure only,3
+EDR stands for:,Event Data Record,Event Detail Record,Enhanced Data Record,Enterprise Data Report,2
+EDRs are typically used for:,Only voice calls,Value Added Services like caller tunes, cricket alerts etc.,Employee attendance,Salary processing,2
+OSS stands for:,Operational Support System,Organizational Support Server,Optical Switching System,Operator Sales System,1
+BSS stands for:,Basic Switching System,Business Support System,Billing Support Server,Broadband Service System,2
+OSS is mainly about:,Managing network inventory, provisioning, configuration, and faults,Managing bank accounts,Handling only invoices,Managing HR data,1
+BSS is mainly about:,Radio network planning,Dealing with customers – orders, bills, payments,Node configuration,Frequency planning,2
+Which of the following is part of the overall BSS landscape?,CRM,Mediation,Postpaid Billing,All of the above,4
+In the TELCO stack, “IN Platform” is associated mostly with:,Postpaid,Prepaid,Interconnect only,HR systems,2
+POS stands for:,Point of Service,Point of Sale,Packet over Satellite,Product Order System,2
+CAF stands for:,Customer Access File,Customer Acquisition Form,Customer Activation File,Central Access Form,2
+DMS stands for:,Dealer Management Service,Document Management System,Data Migration Server,Device Management Service,2
+CAF, POA, POI documents are:,Network configuration files,Scanned customer documents uploaded into DMS,Employee medical records,CDR templates,2
+MSISDN & SIM association includes managing:,Mobile number and SIM mapping,Free MSISDN pool and cleanup,SIM distribution and stock management,All of the above,4
+Order Management is mainly responsible for:,Payroll,Order capture and fulfillment,Radio planning,Tower installation,2
+Order Decomposition means:,Deleting customer orders,Breaking one customer order into multiple sub-orders per service,Merging many orders into one,Splitting bills into taxes,2
+A Triple Play order (landline, internet, wireless) is:,Always a single order in one system,An example where order decomposition creates three sub-orders,A prepaid-only order,A wholesale-only order,2
+Order Orchestration refers to:,Playing music on IVR,Coordinating events across multiple fulfillment systems,Only CRM operations,Only HR workflows,2
+Order Fallout occurs when:,The customer cancels TV subscription,An order fails because of missing/incorrect data or target system issues,The bill is not generated,The SIM is destroyed,2
+CRM stands for:,Customer Rating Management,Customer Relationship Management,Core Routing Management,Call Routing Mechanism,2
+CRM is the main system for:,Network inventory,Customer service – queries, complaints, 360° customer view,SIM printing,Base station configuration,2
+A “360 degree view” in CRM means:,View of only billing details,Complete view of customer – details, services, billing, interactions,Only network usage view,Only location data,2
+CRM helps in:,Cross-sell and up-sell,Faster response to enquiries and complaints,Campaign management,All of the above,4
+Provisioning is about:,Manufacturing SIM cards,Activating/deactivating services in network elements like HLR, switches, IN,Doing tax calculations,Marketing new offers,2
+In postpaid, provisioning may happen:,Only in CRM,In network elements and separately in billing system,Only in DMS,Only in POS,2
+IN Platform (prepaid) mainly stores:,Voice recordings,Account balances for prepaid subscribers,Employee salaries,Tower locations,2
+OSS in provisioning context acts as:,Network interface for order fulfillment in network elements,HR module,Tax calculation engine,Device manufacturer,1
+Network Engineering in OSS deals with:,Configuring complex devices located in various physical places,Payroll processing,Only social media,Only CRM functionality,1
+OSS Data & Analytics usually use:,Spreadsheets only,An Inventory database with network models,SMS systems only,HR database,2
+OSS Planning focuses on:,Only complaints,Capacity, cost, revenue, and reliability of the network,Only taxation,Only CRM screens,2
+Service Fulfilment’s goal is to:,Reduce HR costs,Deliver active, billable services on time while following business rules,Design handsets,Sell towers,2
+Customer Experience Management (CEM/CEX) emerged from:,Social media platforms,Service Assurance and Performance Management,HR systems,Sales tools,2
+Telecom Billing is the process of:,Laying fiber cables,Collecting usage, applying charges, generating invoices, recording payments, managing disputes,Recruiting employees,Designing devices,2
+Basic telecom services include:,Voice,SMS and MMS,Data and Broadband,All of the above,4
+Pre-pay billing typically involves:,No charging,Real-time advice of charge and usually no invoice generation,Annual invoices only,Only corporate customers,2
+Postpaid billing is:,End-of-cycle billing based on usage and rentals,Only prepaid top-up,Only interconnect,Only TAP-based roaming,1
+Convergent billing means:,Separate bill for voice, data, SMS,Billing multiple services on a single platform or invoice,
