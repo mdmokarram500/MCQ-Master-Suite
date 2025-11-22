@@ -38,5 +38,3 @@ The output file will be in the dist/ folder.
 Login Details 🔑
 
 PIN: 1234
-
-git remote add origin (https://github.com/mdmokarram500/MCQ-Master-Suite)
